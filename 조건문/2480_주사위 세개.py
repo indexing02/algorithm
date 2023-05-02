@@ -14,3 +14,4 @@ elif a == b or b == c or a == c:
         print(b * 100 + 1000)
 else:
     print(max(a, b, c) * 100)
+
